@@ -294,4 +294,5 @@ defaults:
       comments: # true # 댓글 활성화
       share: true # 공유 버튼 활성화
       related: true # 관련 게시물 표시
-
+      sidebar:
+        nav: "categories"
