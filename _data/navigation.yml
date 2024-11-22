@@ -27,12 +27,11 @@ main:
   #  url: /categories/categories4/
 
 categories:
-  - title: "Categories1"
+  - title: "C++"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "Algorithm"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "Unreal"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "Project"
     url: /categories/categories4/
-
