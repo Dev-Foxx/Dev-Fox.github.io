@@ -27,7 +27,7 @@ main:
   #  url: /categories/categories4/
 
 categories:
-  -title: "Programming"
+  - title: "Programming"
     children:
     - title: "C++"
       url: /categories/C++/
@@ -37,3 +37,4 @@ categories:
       url: /categories/Unreal/
     - title: "Project"
       url: /categories/Project/
+
