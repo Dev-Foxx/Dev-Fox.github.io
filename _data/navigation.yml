@@ -30,7 +30,7 @@ categories:
   - title: "Programming"
     children:
     - title: "C++"
-      url: /categories/cpp/
+      url: /categories/Cpp/
     - title: "Algorithm"
       url: /categories/Algorithm/
     - title: "Unreal"
