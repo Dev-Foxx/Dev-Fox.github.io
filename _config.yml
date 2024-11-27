@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll" # 로컬 테마 설정
 # remote_theme           : "mmistakes/minimal-mistakes" # 원격 테마 설정
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
 
 # 사이트 설정
 locale                   : "ko-KR"  #"en-US" # 사이트 언어 설정
