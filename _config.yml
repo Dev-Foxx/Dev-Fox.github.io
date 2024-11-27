@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll" # 로컬 테마 설정
 # remote_theme           : "mmistakes/minimal-mistakes" # 원격 테마 설정
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
 
 # 사이트 설정
 locale                   : "ko-KR"  #"en-US" # 사이트 언어 설정
 rtl                      : # true, false (기본값) # 오른쪽에서 왼쪽(RTL) 언어를 위한 페이지 방향 전환
-title                    : "Blog Name Here" # 상단 헤더에 표시되는 블로그 이름
+title                    : "Snowtail Chronicles" # 상단 헤더에 표시되는 블로그 이름
 title_separator          : "&#124;" # 제목 구분자
 subtitle                 : # 사이트 제목 아래에 표시되는 태그라인
 name                     : "Developer Fox" # 작성자 이름
